@@ -5,11 +5,11 @@ Course Project: Shiny Application and Reproducible Pitch
 
 ###This project uses Shiny Application to represent the GDP Growth Around the World for years 1960-2017
 
-Link to Shiny Application: 
+Link to Shiny Application: https://shwetav.shinyapps.io/GDPGrowth_ShinyApp/
 
 ###Description: This Shiny Application allows the user to learn more about the global evolution of countries GDP per capita through an interactive platform. It can be used to compare the GDP growth percentage of two countries for the years selected using the slider input.
 
-Link to Reproducible Pitch Presentation: 
+Link to Reproducible Pitch Presentation: http://rpubs.com/ShwetaV/ReproduciblePitch
 
 ###Description: Used Rstudio Presenter to create the reproducible pitch presentation about the shiny application.
 
